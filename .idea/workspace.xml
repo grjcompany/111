@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676d63c5-c0fe-491a-af80-420155b3343c" name="Default" comment="第一次提交">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/zwt.html" />
+    <list default="true" id="676d63c5-c0fe-491a-af80-420155b3343c" name="Default" comment="第二次提交">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/haha.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="zwt.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zwt.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/zwt.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haha.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/haha.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -46,6 +56,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/zwt.html" />
+        <option value="$PROJECT_DIR$/web/haha.html" />
       </list>
     </option>
   </component>
@@ -212,7 +223,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537240609027</updated>
       <workItem from="1537240612849" duration="79000" />
-      <workItem from="1537240815226" duration="694000" />
+      <workItem from="1537240815226" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1537240678554</created>
@@ -221,11 +232,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537240678554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1537241784135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537241784135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="773000" />
+    <option name="totallyTimeSpent" value="1326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -268,7 +286,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -279,6 +298,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/haha.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
